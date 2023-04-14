@@ -1,4 +1,3 @@
-package ChocolateFactory;
 import java.util.*;
 abstract class Chocolate {
     public abstract void addChocolateTypeToppings(String type,String topping);
