@@ -20,14 +20,14 @@ Another problem is that the client application has to know how many types of con
 Input:
 
 Select your chocolate?
-White
-Dark
-Milk
+1. White
+2. Dark
+3. Milk
 Select your toppings
-Sugar balls
-Coconut powder
-Nuts
-Choco chips
+1. Sugar balls
+2. Coconut powder
+3. Nuts
+4. Choco chips
 
 Output:
 
